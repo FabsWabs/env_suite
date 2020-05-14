@@ -33,10 +33,7 @@ There are two modes for the observation to choose from:
  - mode = 'vector': The observation includes the number of cells (in both directions) between the agent and the box, and between the box and the goal. 
  - mode = 'image': As an observation, an image of the current state gets returned as an *RGB-Array*. This can be used for training Agents based on *Convolutional Neural Networks* (CNN)
  
-![gif not available](https://github.com/smilefab/env_suite/blob/master/data/videos/DQN_pushBox.gif | width=200)
-
-<img src="https://github.com/smilefab/env_suite/blob/master/data/videos/DQN_pushBox.gif" width="300" height=320" />
-
+![gif not available](https://github.com/smilefab/env_suite/blob/master/data/videos/DQN_pushBox.gif)
 
 The animation above shows a DQN-agent solving the environment
 
