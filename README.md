@@ -35,7 +35,7 @@ There are two modes for the observation to choose from:
  
 ![gif not available](https://github.com/smilefab/env_suite/blob/master/data/videos/DQN_pushBox.gif | width=200)
 
-<img src="https://github.com/smilefab/env_suite/blob/master/data/videos/DQN_pushBox.gif" width="300" height=320">
+<img src="https://github.com/smilefab/env_suite/blob/master/data/videos/DQN_pushBox.gif" width="300" height=320" />
 
 
 The animation above shows a DQN-agent solving the environment
