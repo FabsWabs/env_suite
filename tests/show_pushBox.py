@@ -1,4 +1,4 @@
-from env_suite.env_suite import pushBox
+from env_suite.envs import pushBox
 from stable_baselines.common.policies import MlpPolicy
 from stable_baselines.common.vec_env import DummyVecEnv
 from stable_baselines import DQN

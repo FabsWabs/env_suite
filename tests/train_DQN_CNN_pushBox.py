@@ -1,4 +1,4 @@
-from env_suite.env_suite import pushBox
+from env_suite.envs import pushBox
 from stable_baselines.common.policies import CnnPolicy
 from stable_baselines.common.cmd_util import make_vec_env
 from stable_baselines import PPO2

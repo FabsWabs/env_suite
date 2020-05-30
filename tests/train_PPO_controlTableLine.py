@@ -1,4 +1,4 @@
-from env_suite.env_suite import controlTableLine
+from env_suite.envs import controlTableLine
 from stable_baselines.common.policies import MlpPolicy
 from stable_baselines.common import make_vec_env
 from stable_baselines.common.callbacks import EvalCallback

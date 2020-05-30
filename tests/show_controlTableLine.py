@@ -1,4 +1,4 @@
-from env_suite.env_suite import controlTableLine
+from env_suite.envs import controlTableLine
 import numpy as np
 from stable_baselines import PPO2
 from stable_baselines.common.vec_env import VecVideoRecorder, DummyVecEnv

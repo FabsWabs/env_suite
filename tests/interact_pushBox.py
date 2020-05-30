@@ -1,6 +1,6 @@
 from __future__ import print_function
 
-from env_suite.env_suite import pushBox
+from env_suite.envs import pushBox
 from pynput.keyboard import Key, Listener
 import time
 

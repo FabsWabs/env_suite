@@ -1,4 +1,4 @@
-from env_suite.env_suite import controlTableLine
+from env_suite.envs import controlTableLine
 import time
 import numpy as np
 
